@@ -19,7 +19,8 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 📸 Captura de Tela
 
-![Sorteador de Números](https://via.placeholder.com/800x400?text=Sorteador+de+N%C3%BAmeros)
+![image](https://github.com/user-attachments/assets/f21a338a-d35f-42fd-8b3f-5b24e8090eb5)
+
 
 ## 🔧 Como Executar o Projeto
 
